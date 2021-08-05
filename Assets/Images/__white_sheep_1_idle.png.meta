@@ -1,0 +1,720 @@
+fileFormatVersion: 2
+guid: bf0252e1d6705c44e8187aa7ac0a7709
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8191378512136510172
+    second: __white_sheep_1_idle_0
+  - first:
+      213: -9198553113877850329
+    second: __white_sheep_1_idle_1
+  - first:
+      213: -5595081135673045990
+    second: __white_sheep_1_idle_2
+  - first:
+      213: 1453528149492585032
+    second: __white_sheep_1_idle_3
+  - first:
+      213: -2359707296755372348
+    second: __white_sheep_1_idle_4
+  - first:
+      213: 209749170445227166
+    second: __white_sheep_1_idle_5
+  - first:
+      213: 7639135863349890295
+    second: __white_sheep_1_idle_6
+  - first:
+      213: -4255311158648225751
+    second: __white_sheep_1_idle_7
+  - first:
+      213: -2833514488288500694
+    second: __white_sheep_1_idle_8
+  - first:
+      213: -2182178989389809448
+    second: __white_sheep_1_idle_9
+  - first:
+      213: 1057138479898851698
+    second: __white_sheep_1_idle_10
+  - first:
+      213: 1976861212950566552
+    second: __white_sheep_1_idle_11
+  - first:
+      213: -3991962836853246480
+    second: __white_sheep_1_idle_12
+  - first:
+      213: 5629992494901007644
+    second: __white_sheep_1_idle_13
+  - first:
+      213: 6920162728668399438
+    second: __white_sheep_1_idle_14
+  - first:
+      213: 5749411489314347213
+    second: __white_sheep_1_idle_15
+  - first:
+      213: -1988870138188056068
+    second: __white_sheep_1_idle_16
+  - first:
+      213: -9003235138763079552
+    second: __white_sheep_1_idle_17
+  - first:
+      213: 4772846148240286838
+    second: __white_sheep_1_idle_18
+  - first:
+      213: 6719280878585227116
+    second: __white_sheep_1_idle_19
+  - first:
+      213: -202242704631378760
+    second: __white_sheep_1_idle_20
+  - first:
+      213: -7931762018622841169
+    second: __white_sheep_1_idle_21
+  - first:
+      213: -2829001951173672245
+    second: __white_sheep_1_idle_22
+  - first:
+      213: 1318166785945472795
+    second: __white_sheep_1_idle_23
+  - first:
+      213: -3453309341909711618
+    second: __white_sheep_1_idle_24
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 47
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: __white_sheep_1_idle_0
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 1507
+        width: 310
+        height: 268
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cda1aa46b5f9da170800000000000000
+      internalID: 8191378512136510172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __white_sheep_1_idle_1
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 1507
+        width: 310
+        height: 268
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7275fbfcdac285080800000000000000
+      internalID: -9198553113877850329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __white_sheep_1_idle_2
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 1507
+        width: 311
+        height: 268
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1c08b2e9574a52b0800000000000000
+      internalID: -5595081135673045990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __white_sheep_1_idle_3
+      rect:
+        serializedVersion: 2
+        x: 1319
+        y: 1507
+        width: 311
+        height: 268
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 842598d9628fb2410800000000000000
+      internalID: 1453528149492585032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __white_sheep_1_idle_4
+      rect:
+        serializedVersion: 2
+        x: 1738
+        y: 1507
+        width: 311
+        height: 268
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ceaff247b2a04fd0800000000000000
+      internalID: -2359707296755372348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __white_sheep_1_idle_5
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 1144
+        width: 311
+        height: 267
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e94125c52cd29e200800000000000000
+      internalID: 209749170445227166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __white_sheep_1_idle_6
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 1144
+        width: 310
+        height: 267
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fccae50899a30a60800000000000000
+      internalID: 7639135863349890295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __white_sheep_1_idle_7
+      rect:
+        serializedVersion: 2
+        x: 901
+        y: 1144
+        width: 311
+        height: 267
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 920440cfb0912f4c0800000000000000
+      internalID: -4255311158648225751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __white_sheep_1_idle_8
+      rect:
+        serializedVersion: 2
+        x: 1320
+        y: 1144
+        width: 311
+        height: 267
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2424a3e5955da8d0800000000000000
+      internalID: -2833514488288500694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __white_sheep_1_idle_9
+      rect:
+        serializedVersion: 2
+        x: 1739
+        y: 1144
+        width: 311
+        height: 267
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d8791555c757b1e0800000000000000
+      internalID: -2182178989389809448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __white_sheep_1_idle_10
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 781
+        width: 311
+        height: 267
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27974c4b8d5bbae00800000000000000
+      internalID: 1057138479898851698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __white_sheep_1_idle_11
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 781
+        width: 311
+        height: 267
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8969a20acc83f6b10800000000000000
+      internalID: 1976861212950566552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __white_sheep_1_idle_12
+      rect:
+        serializedVersion: 2
+        x: 902
+        y: 781
+        width: 310
+        height: 267
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f53dc043f2b998c0800000000000000
+      internalID: -3991962836853246480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __white_sheep_1_idle_13
+      rect:
+        serializedVersion: 2
+        x: 1321
+        y: 781
+        width: 311
+        height: 267
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1590ba5850c12e40800000000000000
+      internalID: 5629992494901007644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __white_sheep_1_idle_14
+      rect:
+        serializedVersion: 2
+        x: 1739
+        y: 781
+        width: 311
+        height: 267
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e478d2e465b590060800000000000000
+      internalID: 6920162728668399438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __white_sheep_1_idle_15
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 418
+        width: 311
+        height: 267
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc89120b9430acf40800000000000000
+      internalID: 5749411489314347213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __white_sheep_1_idle_16
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 418
+        width: 311
+        height: 267
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf93be4952d1664e0800000000000000
+      internalID: -1988870138188056068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __white_sheep_1_idle_17
+      rect:
+        serializedVersion: 2
+        x: 901
+        y: 418
+        width: 311
+        height: 267
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08046bca7551e0380800000000000000
+      internalID: -9003235138763079552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __white_sheep_1_idle_18
+      rect:
+        serializedVersion: 2
+        x: 1320
+        y: 418
+        width: 311
+        height: 267
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6742471c84e8c3240800000000000000
+      internalID: 4772846148240286838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __white_sheep_1_idle_19
+      rect:
+        serializedVersion: 2
+        x: 1739
+        y: 418
+        width: 310
+        height: 267
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c67a52adb5eaf3d50800000000000000
+      internalID: 6719280878585227116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __white_sheep_1_idle_20
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 55
+        width: 311
+        height: 267
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bc4808e45d713df0800000000000000
+      internalID: -202242704631378760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __white_sheep_1_idle_21
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 55
+        width: 311
+        height: 267
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: faedc05e778bce190800000000000000
+      internalID: -7931762018622841169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __white_sheep_1_idle_22
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 55
+        width: 311
+        height: 267
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc2086fc6bd5db8d0800000000000000
+      internalID: -2829001951173672245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __white_sheep_1_idle_23
+      rect:
+        serializedVersion: 2
+        x: 1319
+        y: 55
+        width: 311
+        height: 267
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1f8ff635b11b4210800000000000000
+      internalID: 1318166785945472795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __white_sheep_1_idle_24
+      rect:
+        serializedVersion: 2
+        x: 1738
+        y: 55
+        width: 310
+        height: 267
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef40fef23716310d0800000000000000
+      internalID: -3453309341909711618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
