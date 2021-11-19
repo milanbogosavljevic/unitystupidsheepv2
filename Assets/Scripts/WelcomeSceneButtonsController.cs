@@ -17,6 +17,7 @@ public class WelcomeSceneButtonsController : MonoBehaviour
         _data = _saveLoadSystem.GetGameData();
 
         SetMusicButtonAlpha();
+        SetSoundButtonAlpha();
     }
 
     public void PlayGame()

@@ -13,6 +13,7 @@ public class Sheep : MonoBehaviour
     [SerializeField] private float EatingTime;
 
     private float speed;
+    private float currentSpeed;
     private float maxLeftMovingPosition = -10f;
     private float maxRightMovingPosition = 8f;
 
@@ -25,9 +26,10 @@ public class Sheep : MonoBehaviour
 
     void Start()
     {
-        speed = StartingSpeed;
+        //speed = StartingSpeed;
+        currentSpeed = StartingSpeed;
         myBody = GetComponent<Rigidbody2D>();
-        speed = startToRight == true ? speed : speed * -1;
+        speed = startToRight == true ? currentSpeed : currentSpeed * -1;
 
         Animator = GetComponent<Animator>();
     }
@@ -63,9 +65,9 @@ public class Sheep : MonoBehaviour
         Quaternion rot = Quaternion.Euler(0f, yRotation, 0f);
         transform.rotation = rot;
         if(xPosition == maxLeftMovingPosition){
-            speed = Mathf.Abs(speed);
+            speed = Mathf.Abs(currentSpeed);
         }else{
-            speed = -speed;
+            speed = currentSpeed * -1;
         }
     }
 
@@ -108,13 +110,14 @@ public class Sheep : MonoBehaviour
 
     public void SetSpeed(float newSpeed)
     {
-        if(this.speed > 0)
+        currentSpeed = newSpeed;
+        if(speed > 0)
         {
-            this.speed = newSpeed;
+            speed = currentSpeed;
         }
         else
         {
-            this.speed = (newSpeed * -1);
+            speed = currentSpeed * -1;
         }
     }
 

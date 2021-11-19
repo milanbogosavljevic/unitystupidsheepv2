@@ -3,45 +3,57 @@
     "m_SelectedPackage": {
         "deviceId": "16949ad4",
         "name": "com.OneManGames.StupidSheeps",
-        "processId": 699,
+        "processId": 32601,
         "exited": false
     },
     "m_SelectedPriority": 0,
     "m_KnownPackagesForSerialization": [
         {
             "deviceId": "16949ad4",
-            "name": "com.android.settings",
-            "processId": 10218,
-            "exited": true
-        },
-        {
-            "deviceId": "16949ad4",
-            "name": "com.OneManGames.StupidSheeps",
-            "processId": 16320,
-            "exited": true
-        },
-        {
-            "deviceId": "16949ad4",
             "name": "com.miui.home",
             "processId": 27543,
-            "exited": false
+            "exited": true
         },
         {
             "deviceId": "16949ad4",
             "name": "com.OneManGames.StupidSheeps",
             "processId": 20919,
-            "exited": false
+            "exited": true
         },
         {
             "deviceId": "16949ad4",
             "name": "com.OneManGames.StupidSheeps",
             "processId": 15085,
-            "exited": false
+            "exited": true
         },
         {
             "deviceId": "16949ad4",
             "name": "com.OneManGames.StupidSheeps",
             "processId": 699,
+            "exited": true
+        },
+        {
+            "deviceId": "16949ad4",
+            "name": "com.OneManGames.StupidSheeps",
+            "processId": 17081,
+            "exited": true
+        },
+        {
+            "deviceId": "16949ad4",
+            "name": "com.miui.home",
+            "processId": 12028,
+            "exited": false
+        },
+        {
+            "deviceId": "16949ad4",
+            "name": "com.OneManGames.StupidSheeps",
+            "processId": 20534,
+            "exited": false
+        },
+        {
+            "deviceId": "16949ad4",
+            "name": "com.OneManGames.StupidSheeps",
+            "processId": 32601,
             "exited": false
         }
     ],
